@@ -1,1 +1,1 @@
-{ "list": "http://meuplay.shop:80/player_api.php?username=Mxpro49&password=1093882299&type=m3u_plus","message":"Bem Vindo ao LucSons Team","max_connections":"900","status":"Active","validity":"31/12/2024","success":"true","notifications": "Z" }
+{ "list": "http://meuplay.shop:80/get.php?username=Mxpro49&password=1093882299&type=m3u_plus","message":"Bem Vindo ao LucSons Team","max_connections":"900","status":"Active","validity":"31/12/2024","success":"true","notifications": "Z" }

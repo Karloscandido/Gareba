@@ -12,8 +12,7 @@
     "max_connections": "2",
     "allowed_output_formats": [
       "m3u8",
-      "ts",
-      "rtmp"
+      "ts"
     ]
   },
   "server_info": {
@@ -26,7 +25,6 @@
     "server_protocol": "http",
     "rtmp_port": "8880",
     "timestamp_now": 1775783302,
-    "time_now": "2026-04-09 22:08:22",
     "timezone": "America/Sao_Paulo"
   }
 }
